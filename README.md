@@ -1,5 +1,5 @@
 # os-elm
-Online Sequential Extreme Learning Machine 
+Online Sequential Extreme Learning Machine\
 Онлайн-последовательная машина экстремального обучения для пронозирования временных рядов
 
 Чтобы установить необходимые зависимости для этого проекта, просто запустите команду `install`.
